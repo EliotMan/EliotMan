@@ -17,6 +17,10 @@ Welcome to my page; on my Github, you can find:
 
 ## 📧 You can contact me on:
 
+<a href="mailto:tvsinger50@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://t.me/eliot_man">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
