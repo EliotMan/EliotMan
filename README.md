@@ -87,7 +87,7 @@ Welcome to my page; on my Github, you can find:
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+![EliotMan's github activity graph](https://raw.githubusercontent.com/EliotMan/EliotMan/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
 
