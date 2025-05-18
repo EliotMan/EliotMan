@@ -81,6 +81,18 @@ Welcome to my page; on my Github, you can find:
 ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
+<!-- Github activity graph section -->
+
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+
+![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+
+<!--   stats + languages -->
+
+<!-- Contact section -->
+
 ## 📧 You can contact me on:
 
 <a href="mailto:tvsinger50@gmail.com">
